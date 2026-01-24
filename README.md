@@ -8,7 +8,7 @@ Currently pursuing **B.Tech CSE @ VIT Chennai** and **BS Data Science @ IIT Madr
 ---
 
 # 💻 currently building
-- **[Gosh]** — A Unix-like shell written in **Go** (handling system calls, signals, and process management).
+- **Gosh** — A Unix-like shell written in **Go** (handling system calls, signals, and process management).
 - **Rust OS Research** — Exploring memory-safe kernel development under faculty guidance.
 - **Astro Portfolio** — Engineering a high-performance personal site.
 
