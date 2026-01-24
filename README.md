@@ -27,5 +27,3 @@ Currently pursuing **B.Tech CSE @ VIT Chennai** and **BS Data Science @ IIT Madr
 
 ---
 
-# 📫 connect with me
-[Substack Link] | [LinkedIn Link] | [Twitter/X]
