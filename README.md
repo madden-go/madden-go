@@ -13,8 +13,8 @@ Currently pursuing **B.Tech CSE @ VIT Chennai** and **BS Data Science @ IIT Madr
 ---
 
 # 🛠 tech stack
-**Systems:** Go, Rust, C  
-**AI/ML:** Python, TensorFlow
-**Web:** React, Next.js, Astro, TypeScript, Tailwind  
+- **Systems:** Go, Rust, C  
+- **AI/ML:** Python, TensorFlow
+- **Web:** React, Next.js, Astro, TypeScript, Tailwind  
 ---
 
