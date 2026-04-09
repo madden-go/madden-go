@@ -8,8 +8,7 @@ Currently pursuing **B.Tech CSE @ VIT Chennai** and **BS Data Science @ IIT Madr
 ---
 
 # 💻 currently building
-- **Rust OS Research** - Exploring memory-safe kernel development under faculty guidance.
-- **F1 Race Optimizer** - A visualizer having a car optimized in terms of tire degradation, braking time, laps to pit in etc. and compared against pre-exisitng car data
+- **Redis in Go** - using the codecrafters tutorial with additional features
 
 ---
 
