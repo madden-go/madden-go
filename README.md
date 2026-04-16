@@ -14,4 +14,4 @@
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=dm0x23&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dm0x23&theme=catppuccin_mocha&hide_border=false&layout=compact&size_weight=0&count_weight=1&eclude_repo=Java-Bootcamp,Java)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dm0x23&theme=catppuccin_mocha&hide_border=false&layout=compact&size_weight=0&count_weight=1&exclude_repo=Java-Bootcamp,Java)
