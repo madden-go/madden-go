@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=3A457F&center=true&vCenter=true&width=400&lines=dm0x23;Denisha" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=89b4fa&center=true&vCenter=true&width=400&lines=dm0x23;Denisha" alt="Typing SVG" />
 </h1>
 
 ### 👋 Hi, I'm Denisha
