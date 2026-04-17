@@ -4,14 +4,13 @@
 
 ### 👋 Hi, I'm Denisha
 
-### 🛠️ Stack
+### Stack
 `Go` `Python` `Rust` `C` `PyTorch` `Linux` `Docker`
-
 
 ### Current
 - **[Ramtier](https://github.com/dm0x23/ramtier)** – Intelligent cache tiering with a TUI.
 
 
-# 📊 GitHub Stats:
+### GitHub Stats
 ![](https://streak-stats.demolab.com/?user=dm0x23&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dm0x23&theme=catppuccin_mocha&hide_border=false&layout=compact&size_weight=0&count_weight=1&exclude_repo=Java-Bootcamp,Java)
