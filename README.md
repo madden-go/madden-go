@@ -10,7 +10,6 @@
 ### Current
 - **[Ramtier](https://github.com/dm0x23/ramtier)** – Intelligent cache tiering with a TUI.
 - **[Doppio](https://github.com/dm0x23/Doppio)** - Speeding up your terminal experience.
-- 
 
 
 ### GitHub Stats
